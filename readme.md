@@ -20,7 +20,7 @@ Ingresar a la carpeta creada
 ``````
 cd app
 ``````
-Crear los archivos main.py y __init__.py, tus módulos, agrega los archivos de tu app.
+Crear los archivos main.py y __init__.py, agregale el código que le da vida a tu API, tus módulos, agrega los archivos et...
 
 Al finalizar tu application e instalar las dependencias, se debe guardar todos los módulos y versiones usadas en un archivo requirements.txt
 ``````
