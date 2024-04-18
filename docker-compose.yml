@@ -1,6 +1,7 @@
 version: '3.8'
 services:
   app:
+    image: timcepeda/myapp:latest
     container_name: myapp
     build: .
     ports:
