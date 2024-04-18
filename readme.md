@@ -67,5 +67,5 @@ Finalizado este paso es momento de ir a [render](https://render.com/) para deplo
 - agrega la ruta de tu imagen como pista, sería usuario/myapp:latest
 - Espera mientras se realiza el deployment
 
-Al finalizar te pasará la url desde dónde puedes acceder a tu API.
+Al finalizar te pasará la url desde dónde puedes acceder a tu API. El resultado de este ejemplo lo puedes consumir [aquí](https://myapp-latest-qdyi.onrender.com) 
 
